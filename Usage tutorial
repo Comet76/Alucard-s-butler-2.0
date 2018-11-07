@@ -1,0 +1,13 @@
+Welcome to my tutorial on how to use my discord bot 
+If youre new to Politics and War, heres a short intro: 
+politics and war is an online browser simulator game. Each player can create a nation. You buy cities, infra to increase your income and score.
+Your score determines who you can declare war against. The game has many calculations, for example max military a nation can have, chances of victory or defeat in a war,etc 
+Each nation is given a random number attached to his/her nation url. This is your nation ID. Nobody has the same nation ID and its this nation ID that tracks your growth. This is a great place to start 
+Use: !nation [enter ID here] to check a nations military. If you dont have an account, feel free to use my nation ID: 78997 or choose a random nation of your choice from : https://politicsandwar.com/nations/ 
+This command provides you info on your no. of cities, score and current mil. Perfect for an easy audit 
+This bot can also give you random tip, useful for new players starting out, simply type: !tip for the bot to give you a random tip 
+If youre ever confused about other commands, use: !help to give a summary of commands 
+---Advanced--- 
+Ultimately your growth is determined by your number of cities. These are immortal and cannot be destroyed. The price of a new city increases exponentially every time you buy one. If you want to calculate the price of your next city, use: !city [city number] to calculate your next city price
+The bot can also access your alliance bank, but it requires two conditions: Alliance ID and an api key. Alliance ID is similar to nation ID. 
+When a new alliance is created, its given a random ID, which you can use for your scripts. An API key is used to access private info and unfortunately if you want to use this function, you need an account that has access to bank. If you do, use: !bank [alliance ID] [api key]
