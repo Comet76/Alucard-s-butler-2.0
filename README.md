@@ -22,3 +22,5 @@ Commands:
 !range[nation_id]: calcs war range based on nation score 
 
 !city [city]: calcs the price of the city inputed 
+
+!tip: gives you a random tip 
